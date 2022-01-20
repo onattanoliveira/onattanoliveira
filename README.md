@@ -20,7 +20,9 @@
   <img src="https://media-exp1.licdn.com/dms/image/C5622AQFEqEuXgMX7mA/feedshare-shrink_800/0/1642685732087?e=1645660800&v=beta&t=t4Z5EMUibg1PIZWSIxesfMOj3L0DauwRumCNepd5rSU" alt=natan.pic align="right" height="150" style="border-radius:50px;">
 </div>
   
-  <div> 
+  </p>
+  
+ <div> 
   <a href="https://wa.me/5545999436863" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/natanbravooo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "nobprogrammer8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
