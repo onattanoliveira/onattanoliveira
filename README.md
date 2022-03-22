@@ -1,6 +1,6 @@
-### Olá, eu sou o Natan Oliveira Bravo, apaixonado por programção e estudante de desenvolvimento Front-End !
+### Olá, me chamo Natan Oliveira Bravo ! Desenvolvedor Web Full Stack & Mobile !
 
-- 🔭 Atualmente trabalho com desenvolvimento web;
+- 🔭 Atualmente trabalho na área como freelancer;
 - 🌱 Utilizo principalmente as tecnologias ( HTML5 - CSS3 - JavaScript - NodeJs - ReactJs - React Native);
 - 👯 Sou fluente em inglês e adoraria aprender espanhol e italiano;
 - 🤔 Procuro ouvir e seguir pessoas mais experientes;
