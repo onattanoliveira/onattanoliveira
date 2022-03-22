@@ -17,7 +17,7 @@
   <img align="center" alt="Natan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Natan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Natan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img src="https://media-exp1.licdn.com/dms/image/C5622AQFEqEuXgMX7mA/feedshare-shrink_800/0/1642685732087?e=1645660800&v=beta&t=t4Z5EMUibg1PIZWSIxesfMOj3L0DauwRumCNepd5rSU" alt=natan.pic align="right" height="150" style="border-radius:50px;">
+ 
 </div>
   
   </p>
