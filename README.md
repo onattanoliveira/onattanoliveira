@@ -1,11 +1,11 @@
 ### Olá, eu sou o Natan Oliveira Bravo, apaixonado por programção e estudante de desenvolvimento Front-End !
 
-- 🔭 Atualmente trabalho com HTML e CSS
-- 🌱 Estou estudando atualmente JavaScript
-- 👯 Sou fluente em inglês e adoro os EUA
-- 🤔 Procuro ajuda de pessoas mais experientes
-- 👯 Adoro trabalhar em home-office
-- 📫 Você pode me contatar através do email : NOBprogrammer8@gmail.com
+- 🔭 Atualmente trabalho com desenvolvimento web;
+- 🌱 Utilizo principalmente as tecnologias ( HTML5 - CSS3 - JavaScript - NodeJs - ReactJs - React Native);
+- 👯 Sou fluente em inglês e adoraria aprender espanhol e italiano;
+- 🤔 Procuro ouvir e seguir pessoas mais experientes;
+- 👯 Home Office ganhando em U$ é um sonho;
+- 📫 Você pode me contatar através do email : nobprogrammer8@gmail.com
 
 <div align="center">
   <a href="https://github.com/natanbravo"> 
