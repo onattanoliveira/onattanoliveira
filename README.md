@@ -1,11 +1,10 @@
-### Olá, me chamo Natan Oliveira Bravo ! Desenvolvedor Web Full Stack & Mobile !
+### Hello World ... I'm Natan Oliveira Bravo and i'm a self-taught Software Developer !
 
-- 🔭 Atualmente trabalho na área como freelancer;
-- 🌱 Utilizo principalmente as tecnologias ( HTML5 - CSS3 - JavaScript - NodeJs - ReactJs - React Native);
-- 👯 Sou fluente em inglês e adoraria aprender espanhol e italiano;
-- 🤔 Procuro ouvir e seguir pessoas mais experientes;
-- 👯 Home Office ganhando em U$ é um sonho;
-- 📫 Você pode me contatar através do email : nobprogrammer8@gmail.com
+- 🌱 My main technologies are => ( HTML5 - CSS3 - JavaScript - NodeJs - ReactJs - React Native);
+- 👯 I'm a fluent english speaker and would to learn ohter languages like Spanish, Italian and French;
+- 🤔 Allways trying to listen the most experienced people;
+- 👯 Working from home and earning dolars is a dream;
+- 📫 You can reach me out by sanding me an email : nobprogrammer8@gmail.com
 
 <div align="center">
   <a href="https://github.com/natanbravo"> 
