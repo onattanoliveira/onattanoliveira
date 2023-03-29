@@ -25,9 +25,9 @@
   </p>
   
  <div  align="center"> 
-  <a  align="center" href="https://wa.me/5545999436863" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a  align="center" href="https://www.instagram.com/bravo_codes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a  align="center" href="https://www.linkedin.com/in/natan-oliveira-bravo-71023822b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<!--   <a  align="center" href="https://wa.me/5545999436863" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a  align="center" href="https://www.instagram.com/bravo_codes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+  <a  align="center" href="https://www.linkedin.com/in/natan-oliveira-bravo-71023822b" target="_blank"><img src="https://img.shields.io/badge/Natan%20Oliveira-Linkedin-blue" target="_blank"></a> 
 </div>
 
    <br/>
