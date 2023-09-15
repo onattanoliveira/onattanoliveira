@@ -1,6 +1,6 @@
 <div align="center" style="display: inline_block">
   <br>
-  <img align="center" alt="Natan-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Natan-CSS" height="42" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Natan-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Natan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Natan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
